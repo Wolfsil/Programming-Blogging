@@ -1,0 +1,6 @@
+//가상환경 생성
+conda create -n 이름 python = 버전
+
+//가상환경 실행
+activate 이름
+
